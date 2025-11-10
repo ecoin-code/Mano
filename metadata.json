@@ -1,0 +1,5 @@
+{
+  "name": "Copy of API Key Management Dashboard",
+  "description": "A web application that provides a user interface for managing API keys, inspired by the Google AI Studio design. It allows users to view, filter, and manage their API keys in a clean, dark-themed dashboard.",
+  "requestFramePermissions": []
+}
